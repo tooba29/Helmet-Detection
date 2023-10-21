@@ -1,0 +1,5 @@
+MODEL USED: yolov7
+
+1) best.pt is the trained model
+2) data.yml is the dataset file on which the model is trained
+3) a bundle of cfg (config files) are provided that would be needed for deployment
